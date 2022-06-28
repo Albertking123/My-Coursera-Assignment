@@ -8,8 +8,8 @@ h1{
 h3{
     text-align:right; 
     position: relative;
-    top: 58px;
-    right: 41px;    
+    top: 63px;
+    right: 45px;    
 }
 
 p{
@@ -22,7 +22,7 @@ p{
 }
 
  
-@media (min-width:992px){
+@media (min-width:768px){
     .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6,
     .col-lg-7, .col-lg-8, .col-lg-9, .col-lgg-10,.col-lg-11,.col-lg-12 
      {
@@ -41,7 +41,7 @@ p{
     
     
     }
-    @media (min-width:768px) and (max-width:991px){
+    @media (min-width:800px) and (max-width:991px){
     .col-md-1, .col-md-2, .col-md-3, 
         
     }
